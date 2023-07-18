@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  background-image: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjL-e2Bq_z_AhVa2TgGHXkGAmsQ1bUFegQIOxAA&url=https%3A%2F%2Fwww.freeimages.com%2Fsearch%2Fcomputer&usg=AOvVaw2jTeKGcCqeEMIvW8_mEsoP&opi=89978449";
+}
+
+html {
+  scroll-behavior: smooth;
+}
